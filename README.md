@@ -9,12 +9,12 @@ A React application developed as part of an interview to join Sixt. Task descrip
 
 ![Home Screenshot 2](/static/img/home2.png)
 
-Featured Location Selected
+### Featured Location Selected
 ![Featured Location Screenshot](/static/img/featured_location_selected.png)
 
-Search for a Pickup Location
+### Search for a Pickup Location
 ![Search Location Screenshot](/static/img/search_location.png)
 
-Available Offers
+### Available Offers
 ![Offers Screenshot](/static/img/offers.png)
 
